@@ -1,5 +1,5 @@
 Sample 2 updated.txt 
 Sample 2 updated.txt 
 Sample 2 updated.txt 
-Sample 2 updated.txt  master1
-Sample 2 updated.txt  master1
+Sample 2 updated.txt  master
+Sample 2 updated.txt  master
